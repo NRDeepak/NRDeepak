@@ -1,6 +1,10 @@
 
 <img src="Deepak N R.png"/>
-- 👋 Hi, I’m @NRDeepak
+
+
+
+
+- 👋 Hi, I’m Deepak N R
 - 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intelligence.
 - 🌱 I’m currently learning different nueral networks.
 - 📫 How to reach me deepaknr015@gmail.com
